@@ -16,4 +16,4 @@ This repository aims to provide a comprehensive learning path for individuals in
 ### Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone [invalid URL removed]
+   git clone [git@github.com:sandipmalii/CV-Learning.git]
